@@ -21,7 +21,6 @@ $result = mysqli_query($con,
 ?>
 
 <!-- Averages div -->
-<p>Pull from github.</p>
 <div class="grid_10 stats">
 </div>
 
