@@ -1,0 +1,1 @@
+All of these folders contain an index.php file. They are meant to share the same database.php file.

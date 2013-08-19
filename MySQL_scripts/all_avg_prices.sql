@@ -1,0 +1,1 @@
+SELECT * FROM Avg_Prices;
