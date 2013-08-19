@@ -21,6 +21,7 @@ $result = mysqli_query($con,
 ?>
 
 <!-- Averages div -->
+<div>Commit from Sites with just git push.</div>
 <div class="grid_10 stats">
 </div>
 
